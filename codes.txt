@@ -1,0 +1,23 @@
+git config --global user.name "NicsonSouza"
+
+git config --global user.email "nick.nicson@gmail.com"
+
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Nome do commite"
+
+git remote add origin (link-git)
+
+git push origin master
+
+limpar histórico git
+git pull origin master --allow-unrelated-histories
+
+clonar
+git clone (link)
